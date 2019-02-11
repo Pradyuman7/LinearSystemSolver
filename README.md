@@ -1,2 +1,3 @@
 # LinearSystemSolver
-Solve linear equation solver in Java
+
+Linear equation system solver in Java
